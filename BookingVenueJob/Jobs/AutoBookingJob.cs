@@ -13,16 +13,16 @@ namespace BookingVenueJob.Jobs
     public class AutoBookingJob : BaseJob
     {
         private readonly ILogger<AutoBookingJob> _logger;
-        private readonly BadmintonService _badmintonService;
+        private readonly IBadmintonService _badmintonService;
         public AutoBookingJob(ILogger<AutoBookingJob> logger,
-                              BadmintonService badmintonService) : base(logger)
+                              IBadmintonService badmintonService) : base(logger)
         {
             _logger = logger;
             _badmintonService = badmintonService;
         }
         public override Task DoJob(IJobExecutionContext context)
         {
-            _badmintonService.BookByUrl();
+            _badmintonService.AutoBooking();
             return Task.CompletedTask;
         }
     }

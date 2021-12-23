@@ -1,4 +1,5 @@
 ﻿using BookingVenueJob.Model;
+using BookingVenueJob.Services;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -9,6 +10,7 @@ using Quartz;
 using System;
 using System.IO;
 using System.Linq;
+using System.Net.Http;
 using System.Reflection;
 using System.Threading.Tasks;
 
@@ -23,7 +25,6 @@ namespace BookingVenueJob
             _config = new ConfigurationBuilder()
                     .SetBasePath(Directory.GetCurrentDirectory())
                     .AddJsonFile("appsettings.json", false)
-                    .AddJsonFile($"appsettings.{Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT")}.json", optional: true)
                     .AddEnvironmentVariables()
                     .Build();
 
@@ -97,7 +98,7 @@ namespace BookingVenueJob
                     tp.MaxConcurrency = 50;
                 });
 
-                var ns = "Chailease.Reconciliation.Scheduler.Jobs";
+                var ns = "BookingVenueJob.Jobs";
 
                 var types = Assembly.GetExecutingAssembly().GetTypes()
                     .Where(t => t.IsClass && !t.IsAbstract && t.Namespace == ns && t.IsPublic)
@@ -117,7 +118,11 @@ namespace BookingVenueJob
                 }
             });
 
-            services.Configure<ProjectSetting>(_config.GetSection("ProjectSettings"));
+            services.Configure<ProjectSetting>(_config.GetSection("ProjectSetting"));
+
+            services.AddHttpClient();
+
+            services.AddScoped<IBadmintonService, BadmintonService>();
         }
         private static Action<ITriggerConfigurator> MakeSetTriggerFunc(string jobName)
         {

@@ -1,0 +1,213 @@
+2021-12-23 09:44:21.6766 Info Auto loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2021-12-23 09:44:21.6916 Info Loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2021-12-23 09:44:21.7080 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2021-12-23 09:44:21.7988 Info Auto loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll succeeded!
+2021-12-23 09:44:21.7988 Info Message Template Auto Format enabled
+2021-12-23 09:44:21.8820 Info Adding target ConsoleTarget(Name=logconsole)
+2021-12-23 09:44:21.8986 Info Validating config: TargetNames=logconsole, ConfigItems=21
+2021-12-23 09:44:38.1036 Info Auto loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2021-12-23 09:44:38.1144 Info Loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2021-12-23 09:44:38.1256 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2021-12-23 09:44:38.1387 Info Auto loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll succeeded!
+2021-12-23 09:44:38.1387 Info Message Template Auto Format enabled
+2021-12-23 09:44:38.2104 Info Adding target ConsoleTarget(Name=logconsole)
+2021-12-23 09:44:38.2229 Info Validating config: TargetNames=logconsole, ConfigItems=21
+2021-12-23 09:45:11.4815 Info AppDomain Shutting down. Logger closing...
+2021-12-23 09:45:11.4990 Info Logger has been shut down.
+2021-12-23 09:56:23.0286 Info Auto loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2021-12-23 09:56:23.0496 Info Loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2021-12-23 09:56:23.0612 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2021-12-23 09:56:23.0747 Info Auto loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll succeeded!
+2021-12-23 09:56:23.0747 Info Message Template Auto Format enabled
+2021-12-23 09:56:23.1374 Info Adding target ConsoleTarget(Name=logconsole)
+2021-12-23 09:56:23.1374 Info Validating config: TargetNames=logconsole, ConfigItems=21
+2021-12-23 09:57:09.3640 Info Auto loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2021-12-23 09:57:09.3722 Info Loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2021-12-23 09:57:09.3722 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2021-12-23 09:57:09.3964 Info Auto loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll succeeded!
+2021-12-23 09:57:09.3964 Info Message Template Auto Format enabled
+2021-12-23 09:57:09.4646 Info Adding target ConsoleTarget(Name=logconsole)
+2021-12-23 09:57:09.4646 Info Validating config: TargetNames=logconsole, ConfigItems=21
+2021-12-23 09:58:31.4047 Info AppDomain Shutting down. Logger closing...
+2021-12-23 09:58:31.4221 Info Logger has been shut down.
+2021-12-23 09:59:35.3982 Info Auto loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2021-12-23 09:59:35.4113 Info Loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2021-12-23 09:59:35.4229 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2021-12-23 09:59:35.4417 Info Auto loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll succeeded!
+2021-12-23 09:59:35.4417 Info Message Template Auto Format enabled
+2021-12-23 09:59:35.5205 Info Adding target ConsoleTarget(Name=logconsole)
+2021-12-23 09:59:35.5345 Info Validating config: TargetNames=logconsole, ConfigItems=21
+2021-12-23 09:59:47.6510 Info Auto loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2021-12-23 09:59:47.6627 Info Loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2021-12-23 09:59:47.6777 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2021-12-23 09:59:47.6931 Info Auto loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll succeeded!
+2021-12-23 09:59:47.6931 Info Message Template Auto Format enabled
+2021-12-23 09:59:47.7715 Info Adding target ConsoleTarget(Name=logconsole)
+2021-12-23 09:59:47.7852 Info Validating config: TargetNames=logconsole, ConfigItems=21
+2021-12-23 10:00:12.1571 Info AppDomain Shutting down. Logger closing...
+2021-12-23 10:00:12.1748 Info Logger has been shut down.
+2021-12-23 10:26:24.5325 Info Auto loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2021-12-23 10:26:24.5421 Info Loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2021-12-23 10:26:24.5421 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2021-12-23 10:26:24.5760 Info Auto loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll succeeded!
+2021-12-23 10:26:24.5760 Info Message Template Auto Format enabled
+2021-12-23 10:26:24.6738 Info Adding target ConsoleTarget(Name=logconsole)
+2021-12-23 10:26:24.6915 Info Validating config: TargetNames=logconsole, ConfigItems=21
+2021-12-23 10:26:36.4143 Info Auto loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2021-12-23 10:26:36.4270 Info Loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2021-12-23 10:26:36.4407 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2021-12-23 10:26:36.4601 Info Auto loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll succeeded!
+2021-12-23 10:26:36.4601 Info Message Template Auto Format enabled
+2021-12-23 10:26:36.5385 Info Adding target ConsoleTarget(Name=logconsole)
+2021-12-23 10:26:36.5522 Info Validating config: TargetNames=logconsole, ConfigItems=21
+2021-12-23 10:27:54.6454 Info Auto loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2021-12-23 10:27:54.6532 Info Loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2021-12-23 10:27:54.6532 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2021-12-23 10:27:54.6811 Info Auto loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll succeeded!
+2021-12-23 10:27:54.6833 Info Message Template Auto Format enabled
+2021-12-23 10:27:54.7570 Info Adding target ConsoleTarget(Name=logconsole)
+2021-12-23 10:27:54.7712 Info Validating config: TargetNames=logconsole, ConfigItems=21
+2021-12-23 10:29:09.3237 Info AppDomain Shutting down. Logger closing...
+2021-12-23 10:29:09.3452 Info Logger has been shut down.
+2021-12-23 10:54:23.8418 Info Auto loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2021-12-23 10:54:23.8564 Info Loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2021-12-23 10:54:23.8564 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2021-12-23 10:54:23.8845 Info Auto loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll succeeded!
+2021-12-23 10:54:23.8861 Info Message Template Auto Format enabled
+2021-12-23 10:54:23.9606 Info Adding target ConsoleTarget(Name=logconsole)
+2021-12-23 10:54:23.9785 Info Validating config: TargetNames=logconsole, ConfigItems=21
+2021-12-23 10:54:56.4558 Info AppDomain Shutting down. Logger closing...
+2021-12-23 10:54:56.4739 Info Logger has been shut down.
+2021-12-23 10:55:42.6644 Info Auto loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2021-12-23 10:55:42.6763 Info Loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2021-12-23 10:55:42.6911 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2021-12-23 10:55:42.7098 Info Auto loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll succeeded!
+2021-12-23 10:55:42.7098 Info Message Template Auto Format enabled
+2021-12-23 10:55:42.8110 Info Adding target ConsoleTarget(Name=logconsole)
+2021-12-23 10:55:42.8282 Info Validating config: TargetNames=logconsole, ConfigItems=21
+2021-12-23 10:55:47.3841 Info AppDomain Shutting down. Logger closing...
+2021-12-23 10:55:47.4020 Info Logger has been shut down.
+2021-12-23 11:06:26.5459 Info Auto loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2021-12-23 11:06:26.5459 Info Loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2021-12-23 11:06:26.5648 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2021-12-23 11:06:26.5809 Info Auto loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll succeeded!
+2021-12-23 11:06:26.5809 Info Message Template Auto Format enabled
+2021-12-23 11:06:26.6540 Info Adding target ConsoleTarget(Name=logconsole)
+2021-12-23 11:06:26.6540 Info Validating config: TargetNames=logconsole, ConfigItems=21
+2021-12-23 11:06:31.9801 Info AppDomain Shutting down. Logger closing...
+2021-12-23 11:06:31.9801 Info Logger has been shut down.
+2021-12-23 11:06:57.8739 Info Auto loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2021-12-23 11:06:57.8863 Info Loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2021-12-23 11:06:57.8863 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2021-12-23 11:06:57.9138 Info Auto loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll succeeded!
+2021-12-23 11:06:57.9138 Info Message Template Auto Format enabled
+2021-12-23 11:06:57.9878 Info Adding target ConsoleTarget(Name=logconsole)
+2021-12-23 11:06:58.0128 Info Validating config: TargetNames=logconsole, ConfigItems=21
+2021-12-23 11:07:00.4733 Info AppDomain Shutting down. Logger closing...
+2021-12-23 11:07:00.4899 Info Logger has been shut down.
+2021-12-23 11:08:35.7000 Info Auto loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2021-12-23 11:08:35.7000 Info Loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2021-12-23 11:08:35.7268 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2021-12-23 11:08:35.7404 Info Auto loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll succeeded!
+2021-12-23 11:08:35.7404 Info Message Template Auto Format enabled
+2021-12-23 11:08:35.8088 Info Adding target ConsoleTarget(Name=logconsole)
+2021-12-23 11:08:35.8088 Info Validating config: TargetNames=logconsole, ConfigItems=21
+2021-12-23 11:08:44.0302 Info AppDomain Shutting down. Logger closing...
+2021-12-23 11:08:44.0473 Info Logger has been shut down.
+2021-12-23 11:08:49.1466 Info Auto loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2021-12-23 11:08:49.1811 Info Loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2021-12-23 11:08:49.1971 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2021-12-23 11:08:49.2288 Info Auto loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll succeeded!
+2021-12-23 11:08:49.2312 Info Message Template Auto Format enabled
+2021-12-23 11:08:49.3173 Info Adding target ConsoleTarget(Name=logconsole)
+2021-12-23 11:08:49.3314 Info Validating config: TargetNames=logconsole, ConfigItems=21
+2021-12-23 11:09:11.1199 Info AppDomain Shutting down. Logger closing...
+2021-12-23 11:09:11.1356 Info Logger has been shut down.
+2021-12-23 11:09:54.5730 Info Auto loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2021-12-23 11:09:54.5873 Info Loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2021-12-23 11:09:54.6013 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2021-12-23 11:09:54.6274 Info Auto loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll succeeded!
+2021-12-23 11:09:54.6274 Info Message Template Auto Format enabled
+2021-12-23 11:09:54.7213 Info Adding target ConsoleTarget(Name=logconsole)
+2021-12-23 11:09:54.7354 Info Validating config: TargetNames=logconsole, ConfigItems=21
+2021-12-23 11:10:47.4380 Info AppDomain Shutting down. Logger closing...
+2021-12-23 11:10:47.4564 Info Logger has been shut down.
+2021-12-23 11:15:39.8943 Info Auto loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2021-12-23 11:15:39.9043 Info Loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2021-12-23 11:15:39.9043 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2021-12-23 11:15:39.9334 Info Auto loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll succeeded!
+2021-12-23 11:15:39.9334 Info Message Template Auto Format enabled
+2021-12-23 11:15:40.0060 Info Adding target ConsoleTarget(Name=logconsole)
+2021-12-23 11:15:40.0233 Info Validating config: TargetNames=logconsole, ConfigItems=21
+2021-12-23 11:16:59.5063 Info Auto loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2021-12-23 11:16:59.5157 Info Loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2021-12-23 11:16:59.5157 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2021-12-23 11:16:59.5388 Info Auto loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll succeeded!
+2021-12-23 11:16:59.5388 Info Message Template Auto Format enabled
+2021-12-23 11:16:59.5957 Info Adding target ConsoleTarget(Name=logconsole)
+2021-12-23 11:16:59.6072 Info Validating config: TargetNames=logconsole, ConfigItems=21
+2021-12-23 11:18:42.5266 Info Auto loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2021-12-23 11:18:42.5266 Info Loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2021-12-23 11:18:42.5474 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2021-12-23 11:18:42.5602 Info Auto loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll succeeded!
+2021-12-23 11:18:42.5602 Info Message Template Auto Format enabled
+2021-12-23 11:18:42.6552 Info Adding target ConsoleTarget(Name=logconsole)
+2021-12-23 11:18:42.6715 Info Validating config: TargetNames=logconsole, ConfigItems=21
+2021-12-23 11:19:20.9462 Info Auto loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2021-12-23 11:19:20.9552 Info Loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2021-12-23 11:19:20.9663 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2021-12-23 11:19:20.9926 Info Auto loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll succeeded!
+2021-12-23 11:19:20.9926 Info Message Template Auto Format enabled
+2021-12-23 11:19:21.0565 Info Adding target ConsoleTarget(Name=logconsole)
+2021-12-23 11:19:21.0696 Info Validating config: TargetNames=logconsole, ConfigItems=21
+2021-12-23 13:40:41.9677 Info Auto loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2021-12-23 13:40:42.0256 Info Loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2021-12-23 13:40:42.0426 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2021-12-23 13:40:42.0656 Info Auto loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll succeeded!
+2021-12-23 13:40:42.0656 Info Message Template Auto Format enabled
+2021-12-23 13:40:42.1643 Info Adding target ConsoleTarget(Name=logconsole)
+2021-12-23 13:40:42.1800 Info Validating config: TargetNames=logconsole, ConfigItems=21
+2021-12-23 13:45:42.6372 Info Auto loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2021-12-23 13:45:42.6883 Info Loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2021-12-23 13:45:42.7032 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2021-12-23 13:45:42.7179 Info Auto loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll succeeded!
+2021-12-23 13:45:42.7179 Info Message Template Auto Format enabled
+2021-12-23 13:45:42.8184 Info Adding target ConsoleTarget(Name=logconsole)
+2021-12-23 13:45:42.8371 Info Validating config: TargetNames=logconsole, ConfigItems=21
+2021-12-23 13:46:46.0004 Info Auto loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2021-12-23 13:46:46.0123 Info Loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2021-12-23 13:46:46.0123 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2021-12-23 13:46:46.0373 Info Auto loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll succeeded!
+2021-12-23 13:46:46.0373 Info Message Template Auto Format enabled
+2021-12-23 13:46:46.1086 Info Adding target ConsoleTarget(Name=logconsole)
+2021-12-23 13:46:46.1210 Info Validating config: TargetNames=logconsole, ConfigItems=21
+2021-12-23 13:49:06.9653 Info Auto loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2021-12-23 13:49:06.9653 Info Loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2021-12-23 13:49:06.9877 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2021-12-23 13:49:07.0007 Info Auto loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll succeeded!
+2021-12-23 13:49:07.0007 Info Message Template Auto Format enabled
+2021-12-23 13:49:07.0676 Info Adding target ConsoleTarget(Name=logconsole)
+2021-12-23 13:49:07.0811 Info Validating config: TargetNames=logconsole, ConfigItems=21
+2021-12-23 13:50:25.6213 Info Auto loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2021-12-23 13:50:25.6213 Info Loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2021-12-23 13:50:25.6450 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2021-12-23 13:50:25.6591 Info Auto loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll succeeded!
+2021-12-23 13:50:25.6591 Info Message Template Auto Format enabled
+2021-12-23 13:50:25.7231 Info Adding target ConsoleTarget(Name=logconsole)
+2021-12-23 13:50:25.7354 Info Validating config: TargetNames=logconsole, ConfigItems=21
+2021-12-23 13:53:39.3957 Info AppDomain Shutting down. Logger closing...
+2021-12-23 13:53:39.4038 Info Logger has been shut down.
+2021-12-23 13:54:14.6622 Info Auto loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2021-12-23 13:54:14.6723 Info Loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2021-12-23 13:54:14.6841 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2021-12-23 13:54:14.6841 Info Auto loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll succeeded!
+2021-12-23 13:54:14.6987 Info Message Template Auto Format enabled
+2021-12-23 13:54:14.7691 Info Adding target ConsoleTarget(Name=logconsole)
+2021-12-23 13:54:14.7837 Info Validating config: TargetNames=logconsole, ConfigItems=21
+2021-12-23 13:55:54.6755 Info Auto loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2021-12-23 13:55:54.6837 Info Loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+2021-12-23 13:55:54.6837 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.7.4.1610. Product version: 1.7.4+e2bffa9e949fb4760d75aca224e78631c063f087. GlobalAssemblyCache: False
+2021-12-23 13:55:54.7042 Info Auto loading assembly file: E:\repo\BookingVenueJob\BookingVenueJob\bin\Debug\net5.0\NLog.Extensions.Logging.dll succeeded!
+2021-12-23 13:55:54.7042 Info Message Template Auto Format enabled
+2021-12-23 13:55:54.7676 Info Adding target ConsoleTarget(Name=logconsole)
+2021-12-23 13:55:54.7802 Info Validating config: TargetNames=logconsole, ConfigItems=21

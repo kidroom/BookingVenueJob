@@ -155,7 +155,13 @@ namespace BookingVenueJob.Services
             Task.WaitAll(bookAction);
         }
 
-        public async Task BookBadmintonNewPageAsync(int periodIndex, int venueIndex)
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="periodIndex"></param>
+        /// <param name="venueIndex"></param>
+        /// <returns></returns>
+        private async Task BookBadmintonNewPageAsync(int periodIndex, int venueIndex)
         {
             await Task.Delay(1);
 
@@ -190,7 +196,7 @@ namespace BookingVenueJob.Services
             wait.Until(drv => drv.FindElement(By.Id("btn_PlaceBook")));
             IWebElement confirmBookButton = web.FindElement(By.Id("btn_PlaceBook"));
             confirmBookButton.Click();
-
+            //關閉網頁
             web.Quit();
         }
 
@@ -290,8 +296,10 @@ namespace BookingVenueJob.Services
             for (int venueIndex = 2; venueIndex <= 7; venueIndex++)
             {
                 bool sameVenue = true;
+                //檢查是否有連續兩個時段
                 for (int periodIndex = startTrIndex; periodIndex <= startTrIndex + 2; periodIndex += 2)
                 {
+                    //檢查HTML XPath的物件是否是可訂場地
                     wait.Until(drv => drv.FindElement(By.XPath(string.Format(_projectSetting.DomPath.ImgButton, periodIndex, venueIndex))));
                     IWebElement timeButton = web.FindElement(By.XPath(string.Format(_projectSetting.DomPath.ImgButton, periodIndex, venueIndex)));
                     string title = timeButton.GetAttribute("title");
